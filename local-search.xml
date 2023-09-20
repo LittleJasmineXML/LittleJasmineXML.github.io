@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>something</title>
+    <link href="/2023/09/20/something/"/>
+    <url>/2023/09/20/something/</url>
+    
+    <content type="html"><![CDATA[<hr><p>title:something<br>date::2023-09-2011:18<br>categories:<br>tags:</p><hr><p>今天学习了内容：<br>定义：</p><blockquote><p>$$S&#x3D;k\ln\Omega$$<br>那么我们会有关于温度的定义：<br>$$\frac{1}{T}&#x3D;\frac{\partial S}{\partial U}$$<br>我们将”S“这个量称为”熵“</p></blockquote><p>我们尝试找到两个系统combine时最大的可能态。<br>之前我们寻找两个系统的最大可能态时所需要的条件，用熵来表示可以写作：<br>$$S+S’&#x3D;maximum$$<br>这个条件在$T&#x3D;T’$时满足。</p><h2 id="无限小准静态过程"><a href="#无限小准静态过程" class="headerlink" title="无限小准静态过程"></a>无限小准静态过程</h2><p>考虑准静态过程：一个系统A，由于与系统A’的相互作用，从由$U$和$\bar{X_\alpha}(\alpha&#x3D;1,\cdots,n)$描述的平衡态移动到由$U+ dU$和$\bar{x_\alpha}+dx_\alpha$描述的微小不同的平衡态。<br>那么微观状态数的变化可写作：<br>$$d\ln\Omega&#x3D;\frac{\partial \ln \Omega}{\partial U}dU+\sum\limits_{\alpha&#x3D;1}^{n}\frac{\partial \ln \Omega}{\partial x_{\alpha}}d\bar{x_{\alpha}}$$<br>或者将其写作：<br>$$d\ln\Omega&#x3D;\beta(dU+dW)\equiv\beta dQ$$</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2023/09/20/hello-world/"/>
+    <url>/2023/09/20/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
